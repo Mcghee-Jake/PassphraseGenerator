@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Passphrase Generator</string>
+    <string name="btn_generate_passphrase">Generate Passphrase</string>
+    <string name="word_length">Word Length:</string>
+</resources>
